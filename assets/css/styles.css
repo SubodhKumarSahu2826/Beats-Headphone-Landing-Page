@@ -10,7 +10,7 @@
   --title-color: hsl(var(--hue-color), 4%, 95%);
   --text-color: hsl(var(--hue-color), 4%, 75%);
   --text-color-light: hsl(var(--hue-color), 4%, 65%);
-  --white-color: #FFF;
+  --white-color: #a9e60e;
   --body-color: hsl(var(--hue-color), 4%, 6%);
   --container-color: hsl(var(--hue-color), 4%, 10%);
   --text-gradient: linear-gradient(hsl(var(--hue-color), 4%, 24%), hsl(var(--hue-color), 4%, 8%));
